@@ -1,0 +1,6 @@
+.env
+.env*.local
+.next
+node_modules
+*.log
+OPENAI_API_KEY_配置.env
